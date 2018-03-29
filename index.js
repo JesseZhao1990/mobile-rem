@@ -15,7 +15,7 @@ typeof define === 'function' && define.amd ? define(factory) : (global.setRem = 
               const docEl = document.documentElement;
               const { clientWidth } = docEl;
               if (!clientWidth) return;
-              docEl.style.fontSize = `${100 * (designWith / 1080)}px`;
+              docEl.style.fontSize = `${100 * (clientWidth / Number(designWith))}px`;
             };
           
             if (!document.addEventListener) return;
