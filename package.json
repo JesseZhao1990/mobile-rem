@@ -1,6 +1,6 @@
 {
   "name": "mobile-rem",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "set font size of base on mobile",
   "main": "index.js",
   "scripts": {
