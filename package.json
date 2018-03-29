@@ -1,0 +1,19 @@
+{
+  "name": "mobile-rem",
+  "version": "1.0.0",
+  "description": "set font size of base on mobile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesseZhao1990/mobile-rem.git"
+  },
+  "author": "215696013@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JesseZhao1990/mobile-rem/issues"
+  },
+  "homepage": "https://github.com/JesseZhao1990/mobile-rem#readme"
+}
